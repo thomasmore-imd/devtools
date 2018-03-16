@@ -1,2 +1,3 @@
-# devtools
-A list of usefull  devtools and plugins for the IMD dev community
+# Devtools
+
+A list of useful devtools and plugins for the IMD dev community.
