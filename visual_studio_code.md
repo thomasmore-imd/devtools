@@ -10,8 +10,7 @@
             - [1.2.1.2. Auto Rename Tag](#1212-auto-rename-tag)
             - [1.2.1.3. Better Comments](#1213-better-comments)
             - [1.2.1.4. Code Spell Checker](#1214-code-spell-checker)
-            - [1.2.1.5. Auto Rename Tag](#1215-auto-rename-tag)
-            - [1.2.1.6. Material Icon Theme](#1216-material-icon-theme)
+            - [1.2.1.5. Material Icon Theme](#1215-material-icon-theme)
         - [1.2.2. Git](#122-git)
             - [1.2.2.1. gitignore](#1221-gitignore)
         - [1.2.3. Markdown](#123-markdown)
@@ -73,7 +72,7 @@ Adds the functionality to auto close both HTML and XMl tags while working withou
 
 #### 1.2.1.2. Auto Rename Tag
 
-Automatically renames the paired-end tags for both HTML and CSS.
+Do you remember the times your layout or code broke because you updated the opening tag, but forgot to update the closing tags? With the auto renaming tag you can add this missing functionality from PhpStorm over into Visual Studio Code!
 
 #### 1.2.1.3. Better Comments
 
@@ -85,11 +84,7 @@ The Code Spell Checker can add spelling and grammar control to the editor. This 
 
 By standard, this extension supports English for proofreading your code, to build upon this, the developer has also released child extensions extending the module with other languages.
 
-#### 1.2.1.5. Auto Rename Tag
-
-Do you remember the times your layout or code broke because you updated the opening tag, but forgot to update the closing tags? With the auto renaming tag you can add this missing functionality from PhpStorm over into Visual Studio Code!
-
-#### 1.2.1.6. Material Icon Theme
+#### 1.2.1.5. Material Icon Theme
 
 With the Material Icon Theme, you can add stylized icons to not only improve the designs of existing icons, but also add a completely new set for folders. This improves readability and recognizability for the names we use for structuring folders.
 
