@@ -8,9 +8,10 @@
         - [1.2.1. General](#121-general)
             - [1.2.1.1. Auto Close Tag](#1211-auto-close-tag)
             - [1.2.1.2. Auto Rename Tag](#1212-auto-rename-tag)
-            - [1.2.1.3. Better Comments](#1213-better-comments)
-            - [1.2.1.4. Code Spell Checker](#1214-code-spell-checker)
-            - [1.2.1.5. Material Icon Theme](#1215-material-icon-theme)
+            - [1.2.1.3. Auto Comment Blocks](#1213-auto-comment-blocks)
+            - [1.2.1.4. Better Comments](#1214-better-comments)
+            - [1.2.1.5. Code Spell Checker](#1215-code-spell-checker)
+            - [1.2.1.6. Material Icon Theme](#1216-material-icon-theme)
         - [1.2.2. Git](#122-git)
             - [1.2.2.1. gitignore](#1221-gitignore)
         - [1.2.3. Markdown](#123-markdown)
@@ -74,17 +75,21 @@ Adds the functionality to auto close both HTML and XMl tags while working withou
 
 Do you remember the times your layout or code broke because you updated the opening tag, but forgot to update the closing tags? With the auto renaming tag you can add this missing functionality from PhpStorm over into Visual Studio Code!
 
-#### 1.2.1.3. Better Comments
+#### 1.2.1.3. Auto Comment Blocks
+
+This plugin adds the PhpStorm functionality of automatically creating comment blocks. By writing `/**` Visual Studio Code will create a comment block, adding asteriks to each line.
+
+#### 1.2.1.4. Better Comments
 
 By using the Better Comments plugin you can add styles to your comment lines. This can be easily done by annotating, which directly visualizes each comment line to help in managing your code.
 
-#### 1.2.1.4. Code Spell Checker
+#### 1.2.1.5. Code Spell Checker
 
 The Code Spell Checker can add spelling and grammar control to the editor. This extension also works great with camelCase for detecting different words joined together.
 
 By standard, this extension supports English for proofreading your code, to build upon this, the developer has also released child extensions extending the module with other languages.
 
-#### 1.2.1.5. Material Icon Theme
+#### 1.2.1.6. Material Icon Theme
 
 With the Material Icon Theme, you can add stylized icons to not only improve the designs of existing icons, but also add a completely new set for folders. This improves readability and recognizability for the names we use for structuring folders.
 
