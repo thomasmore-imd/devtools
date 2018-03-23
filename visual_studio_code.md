@@ -19,7 +19,9 @@
             - [1.2.3.2. Markdown TOC](#1232-markdown-toc)
             - [1.2.3.3. Markdownlint](#1233-markdownlint)
         - [1.2.4. PHP](#124-php)
-            - [1.2.4.1. PHP Getters & Setters](#1241-php-getters--setters)
+            - [1.2.4.1. PHP Debug](#1241-php-debug)
+            - [1.2.4.2. PHP Getters & Setters](#1242-php-getters--setters)
+            - [1.2.4.3. PHP IntelliSense](#1243-php-intellisense)
         - [1.2.5. NodeJS](#125-nodejs)
             - [1.2.5.1. Heroku-cli](#1251-heroku-cli)
             - [1.2.5.2. html2jade](#1252-html2jade)
@@ -119,9 +121,21 @@ In most cases you can automatically fix issues and read learn more about the gui
 
 ### 1.2.4. PHP
 
-#### 1.2.4.1. PHP Getters & Setters
+#### 1.2.4.1. PHP Debug
+
+After installing and configuring XDebug on your device it will be possible to debug PHP in Visual Studio Code. 
+
+#### 1.2.4.2. PHP Getters & Setters
 
 Kickstart your OOP programming in PHP by instantly generating your getters and setters for your classes. Be advised to use this extension after learning the basics from OOP and Getters & Setters so you can write and understand the code yourself.
+
+#### 1.2.4.3. PHP IntelliSense
+
+PHP IntelliSense adds advanced autocompletion and refactoring to Visual Studio Code. This brings the suggestions of the editor closer to PhpStorm.
+
+It is recommended to disable basic suggestions to prevent duplicate suggestions after installing this plugin.
+
+To make use of the more advanced IntelliSense you need to link your php.exe to Visual Studio Code. You can do this by linking to the php.exe file included in your LAMP stack.
 
 ### 1.2.5. NodeJS
 
