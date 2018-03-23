@@ -11,7 +11,8 @@
             - [1.2.1.3. Auto Comment Blocks](#1213-auto-comment-blocks)
             - [1.2.1.4. Better Comments](#1214-better-comments)
             - [1.2.1.5. Code Spell Checker](#1215-code-spell-checker)
-            - [1.2.1.6. Material Icon Theme](#1216-material-icon-theme)
+            - [1.2.1.6. Live Server](#1216-live-server)
+            - [1.2.1.7. Material Icon Theme](#1217-material-icon-theme)
         - [1.2.2. Git](#122-git)
             - [1.2.2.1. gitignore](#1221-gitignore)
         - [1.2.3. Markdown](#123-markdown)
@@ -91,7 +92,11 @@ The Code Spell Checker can add spelling and grammar control to the editor. This 
 
 By standard, this extension supports English for proofreading your code, to build upon this, the developer has also released child extensions extending the module with other languages.
 
-#### 1.2.1.6. Material Icon Theme
+#### 1.2.1.6. Live Server
+
+Live Server adds the Brackets-like live previewing to Visual Studio Code. Support for live previewing works out of the box post-installation by using the *go live* button in the task bar inside the editor.
+
+#### 1.2.1.7. Material Icon Theme
 
 With the Material Icon Theme, you can add stylized icons to not only improve the designs of existing icons, but also add a completely new set for folders. This improves readability and recognizability for the names we use for structuring folders.
 
