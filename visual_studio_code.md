@@ -13,6 +13,7 @@
             - [1.2.1.5. Code Spell Checker](#1215-code-spell-checker)
             - [1.2.1.6. Live Server](#1216-live-server)
             - [1.2.1.7. Material Icon Theme](#1217-material-icon-theme)
+            - [1.2.1.8. Paste and Indent](#1218-paste-and-indent)
         - [1.2.2. Git](#122-git)
             - [1.2.2.1. gitignore](#1221-gitignore)
         - [1.2.3. Markdown](#123-markdown)
@@ -101,6 +102,10 @@ Live Server adds the Brackets-like live previewing to Visual Studio Code. Suppor
 With the Material Icon Theme, you can add stylized icons to not only improve the designs of existing icons, but also add a completely new set for folders. This improves readability and recognizability for the names we use for structuring folders.
 
 This list includes, but is not limited, to lib, images, js, ...
+
+#### 1.2.1.8. Paste and Indent
+
+Moving code blocks in Visual Studio Code doesn't always work very pretty. Especially while copy-pasting blocks of code the indenting might go completely wrong. This plugin automatically formats your code after doing a copy paste in most used development languages, so you don't need to worry yourself about keeping the indents clean.
 
 ### 1.2.2. Git
 
