@@ -2,7 +2,12 @@
 
 A list of useful devtools and plugins for the IMD dev community.
 
-## Available lists
+## Editors
 
 - [PhpStorm](phpstorm.md)
 - [Visual Studio Code](visual_studio_code.md)
+
+## Browsers
+
+- [Google Chrome](chrome.md)
+- [Internet Explorer](internet_explorer.md)
