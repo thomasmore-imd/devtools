@@ -88,31 +88,24 @@ Stylelint can be enabled for PhpStorm through a setting in the category Stylelin
 ## 1.2. Extensions
 
 ### 1.2.1. .ignore
-Add a .ignore file to your project. 
-Supported ignore files:
-- .gitignore (Git)
-- .hgignore (Mercurial)
-- .npmignore (NPM)
-- .dockerignore (Docker)
-- .cvsignore (CVS)
-- .bzrignore (Bazaar)
-- .boringignore (Darcs)
-- .mtn-ignore (Monotone)
-- .ignore-glob (Fossil)
-- .jshintignore (JSHint)
-- .tfignore (Team Foundation)
-- .p4ignore (Perforce)
-- .prettierignore (Prettier)
-- .flooignore (Floobits)
-- .eslintignore (ESLint)
-- .cfignore (Cloud Foundry)
-- .jpmignore (Jetpack)
-- .stylelintignore (StyleLint)
-- .stylintignore (Stylint)
-- .swagger-codegen-ignore (Swagger Codegen)
-- .helmignore (Kubernetes Helm)
-- .upignore (Up)
-- .prettierignore (Prettier)
+
+This extension can automatically add the right ignore files to your PhpStorm projects. Below you can find a table with supported ignore languages.
+
+| Name                        | Name                                      |
+|-----------------------------|-------------------------------------------|
+| .gitignore (Git)            | .p4ignore (Perforce)                      |
+| .hgignore (Mercurial)       | .prettierignore (Prettier)                |
+| .npmignore (NPM)            | .flooignore (Floobits)                    |
+| .dockerignore (Docker)      | .eslintignore (ESLint)                    |
+| .cvsignore (CVS)            | .cfignore (Cloud Foundry)                 |
+| .bzrignore (Bazaar)         | .jpmignore (Jetpack)                      |
+| .boringignore (Darcs)       | .stylelintignore (StyleLint)              |
+| .mtn-ignore (Monotone)      | .stylintignore (Stylint)                  |
+| .ignore-glob (Fossil)       | .swagger-codegen-ignore (Swagger Codegen) |
+| .jshintignore (JSHint)      | .helmignore (Kubernetes Helm)             |
+| .tfignore (Team Foundation) | .upignore (Up)                            |
+| .prettierignore (Prettier)  |                                           |
+|                             |                                           |
 
 [.Ignore | Plugin Page](https://plugins.jetbrains.com/plugin/7495--ignore)
 
