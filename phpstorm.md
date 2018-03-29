@@ -33,8 +33,8 @@
         - [1.2.17. gfm](#1217-gfm)
         - [1.2.18. PHP Annotations](#1218-php-annotations)
     - [1.3. Tips to make your work environment faster](#13-tips-to-make-your-work-environment-faster)
-    - [1.4. Disable Reopen Last Project on Startup](#14-disable-reopen-last-project-on-startup)
-    - [1.5. Disable Unused Plugins](#15-disable-unused-plugins)
+        - [1.3.1. Disable Reopen Last Project on Startup](#131-disable-reopen-last-project-on-startup)
+        - [1.3.2. Disable Unused Plugins](#132-disable-unused-plugins)
 
 <!-- /TOC -->
 
@@ -186,13 +186,13 @@ View a md file just like it would if you watched it on Github
 - [1.3.1. Disable Reopen Last Project on Startup](#131-Disable-Reopen-Last-Project-on-Startup)
 - [1.3.2. Disable Unused Plugins](#132-Disable-Unused-Plugins)
 
-## 1.4. Disable Reopen Last Project on Startup
+### 1.3.1. Disable Reopen Last Project on Startup
 By default, PhpStorm opens your last opened project on startup. 
 This is alright when you work on the same project most of the days, but when you switch projects often, you might want to disabled this.
 
 Go to: preferences -> type ‘reopen’ -> Uncheck ‘Reopen last project on startup’
 
-## 1.5. Disable Unused Plugins
+### 1.3.2. Disable Unused Plugins
 There are a lot of useful plugins but there might be some you don't really need on a regular basis.
 So you might disable those unused plugins to improve loading time.
 
