@@ -10,6 +10,8 @@
         - [1.2.1. JSON Viewer](#121-json-viewer)
         - [1.2.2. CSS Peeper](#122-css-peeper)
         - [1.2.3. Fireshot](#123-fireshot)
+        - [1.2.4. Wappalyzer](#124-wappalyzer)
+        - [1.2.5. Postman](#125-postman)
 
 <!-- /TOC -->
 
@@ -71,4 +73,8 @@ Fireshot can automatically create screenshots of an entire webpage. This behavio
 
 ### 1.2.4. Wappalyzer
 
-[Wappalyzer](https://wappalyzer.com) is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more. 
+[Wappalyzer](https://www.wappalyzer.com/) is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more. 
+
+### 1.2.5. Postman
+
+[Postman](https://www.getpostman.com) makes API development faster, easier, and better. The app is available as Chrome app and native app. Postman provides an slick GUI and a large number of tools that support the entire API workflow. API monitoring, debugging with tests/scripts/variables/..., automated testing integrated into your CI/CD pipeline, create and publish web-viewable documentation on the fly,...
