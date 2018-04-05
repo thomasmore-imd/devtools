@@ -73,7 +73,7 @@ Fireshot can automatically create screenshots of an entire webpage. This behavio
 
 ### 1.2.4. Wappalyzer
 
-[Wappalyzer](https://wappalyzer.com) is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more. 
+[Wappalyzer](https://www.wappalyzer.com/) is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more. 
 
 ### 1.2.5. Postman
 
