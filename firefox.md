@@ -18,7 +18,7 @@
         - [1.2.7. Developer Excuses](#127-developer-excuses)
         - [1.2.8. Octotree](#128-octotree)
         - [1.2.9. Ghostery](#129-ghostery)
-        - [1.2.10. User Agent Switcher](#1210.-user-agent-switcher)
+        - [1.2.10. User Agent Switcher](#1210-user-agent-switcher)
         - [1.2.11. Disconnect](#1211-disconnect)
         - [1.2.12. Flagfox](#1212-flagfox)
         - [1.2.13. Vue.js devtools](#1213-vue.js-devtools)
@@ -33,6 +33,16 @@
         - [1.2.22. Empty Cache Button](#1222-empty-cache-button)
         - [1.2.23. SEOQuake](#1223-seoquake)
         - [1.2.24. Colorzilla](#1224-colorzilla)
+        - [1.2.25. Blackfire Companion](#1225-blackfire-companion)
+        - [1.2.26. Bootstrap Responsive Helper](#1226-bootstrap---responsive-helper)
+        - [1.2.27. Windowsizer](#1227-windowsizer)
+        - [1.2.28. Formfiller](#1228-formfiller)
+        - [1.2.29. Spector.js](#1229-spector.js)
+        - [1.2.30. Scrummer](#1230-scrummer)
+        - [1.2.31. NoScript](#1231-noscript-security-suite)
+        - [1.2.32. No Miner](#1232-no-miner)
+        - [1.2.33. HTTP Header Live](#1233-http-header-live)
+        - [1.2.34. Reverse image search](#1234-reverse-image-search)
 
 <!-- /TOC -->
 
@@ -252,3 +262,73 @@ Features
 - Auto copy picked colors to clipboard
 - Keyboard shortcuts
 - Get colors of dynamic hover elements 
+
+### 1.2.25 Blackfire Companion
+
+[Blackfire](https://addons.mozilla.org/nl/firefox/addon/blackfire) is a PHP Performance Management Solution. It enables you to get deep insights on how your code is executed and how it consumes resources, with the help of profiling and testing technologies.
+
+The easiest way to profile your web pages is by using the Blackfire Companion for Firefox. The Companion lets you profile the current web page displayed in your browser.
+
+### 1.2.26 Bootstrap - Responsive Helper
+
+[Bootstrap Responsive Helper](https://addons.mozilla.org/nl/firefox/addon/bootstrap-responsive-helper): Show the bootstrap grid class currently active (XS, SM, MD, LG, XL).
+
+### 1.2.27 Windowsizer
+
+Define [custom presets](https://addons.mozilla.org/nl/firefox/addon/windowsizer) and switch between them via toolbar menu and/or hotkeys.
+
+Features
+- Make presets with custom width, height, name
+- Switch window size via toolbar popup menu
+- Switch window size via hotkey [note 1]
+- Edit existing presets
+- Change order of existing presets
+- Quick-fill preset values based on current window size
+
+### 1.2.28 Formfiller
+
+[Fills all form inputs in a page with dummy data.](https://addons.mozilla.org/en-US/firefox/addon/form-filler-devtool/)
+The purpose of this extension is to help developers test their forms quickly and easily.
+This extension allows you to fill all form inputs (textboxes, textareas, radio buttons, dropdowns, etc.) with random/dummy data.
+This extension is a must for developers who work with forms as it avoids the need for manually entering values in fields.
+
+Features
+- Fills all text boxes in a form.
+- Supports the maxlength property.
+- Randomly selects radio buttons dropdown menus and checkboxes.
+- Ignores CAPTCHA, hidden, disabled and readonly fields.
+- Supports generating dummy data based on a regular expression.
+
+### 1.2.29 Spector.js
+
+[Spector.js](https://addons.mozilla.org/nl/firefox/addon/spector-js) is a WebGL debugger that you can use to debug any WebGL context (including WebGL2). It was tested with major 3d engines.
+
+You will be able to analyze all information related to a frame alongside with an history of how the frame was built.
+
+### 1.2.30 Scrummer
+
+[Scrummer](https://addons.mozilla.org/nl/firefox/addon/scrummer-1): Tiny plugin which simple counts the number of storypoints added to Trellocards.
+
+### 1.2.31 NoScript Security Suite
+
+[NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript): It allows JavaScript, Flash, Java and other executable content to run only from trusted domains of your choice, e.g. your home-banking site, mitigating remotely exploitable vulnerabilities including Spectre and Meltdown.
+
+It protects your "trust boundaries" against cross-site scripting attacks (XSS), cross-zone DNS rebinding / CSRF attacks (router hacking), and Clickjacking attempts, thanks to its unique ClearClick technology.
+
+Such a preemptive approach prevents exploitation of security vulnerabilities (known and even unknown!) with no loss of functionality where you need it.
+
+### 1.2.32 No-Miner
+
+[This add-on](https://addons.mozilla.org/nl/firefox/addon/no-miner/?src=search) blocks mining in your browser before it even starts. It does so by scanning Javascript files before they are loaded and rejecting them.
+                                                                               
+If you want to add a certain website as an exception, you can click on the plugin icon and add the website's domain (Regex/Regular-Expression pattern).
+
+### 1.2.33 HTTP Header Live
+
+[Displays the HTTP header. Edit it and send it.](https://addons.mozilla.org/nl/firefox/addon/http-header-live)
+
+### 1.2.34 Reverse Image Search
+
+[Reverse image search](https://addons.mozilla.org/nl/firefox/addon/capture-reverse-image-search) will allow you to find similar images or the original image source. This is a useful tool to find for instance the actual image name or detect whether this image is unique or is just a copy or a modified copy of an already existed image on the web.
+
+In most cases, images are embedded in the background page consequently it is not straightforward to find the actual URLs to be passed to a reverse image search engine. Also, it is possible that the image you are looking for is just part of a video stream. This extension solves these problems by providing capturing tool in the right-click context menu. Simply select the item and capture a portion of the screen. The captured image is automatically sent to either "TinEye" or "Google Images" search engine and after successful upload, a new page with the matching results is displayed.
