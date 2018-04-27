@@ -24,6 +24,7 @@
             - [1.2.4.1. PHP Debug](#1241-php-debug)
             - [1.2.4.2. PHP Getters & Setters](#1242-php-getters--setters)
             - [1.2.4.3. PHP IntelliSense](#1243-php-intellisense)
+            - [1.2.4.4. PHP IntelliSense for CodeIgniter](#1244-php-intellisense-for-codeigniter)
         - [1.2.5. NodeJS](#125-nodejs)
             - [1.2.5.1. Heroku-cli](#1251-heroku-cli)
             - [1.2.5.2. html2jade](#1252-html2jade)
@@ -146,6 +147,10 @@ PHP IntelliSense adds advanced autocompletion and refactoring to Visual Studio C
 It is recommended to disable basic suggestions to prevent duplicate suggestions after installing this plugin.
 
 To make use of the more advanced IntelliSense you need to link your php.exe to Visual Studio Code. You can do this by linking to the php.exe file included in your LAMP stack.
+
+#### 1.2.4.4. PHP IntelliSense for CodeIgniter
+
+This extension dynamically adds IntelliSense for CodeIgniter by detecting the `system` folder in your project. After installation Visual Studio Code returns code completion for all the models and classes present in your code.
 
 ### 1.2.5. NodeJS
 
