@@ -26,15 +26,18 @@
             - [1.2.4.2. PHP Getters & Setters](#1242-php-getters--setters)
             - [1.2.4.3. PHP IntelliSense](#1243-php-intellisense)
             - [1.2.4.4. PHP IntelliSense for CodeIgniter](#1244-php-intellisense-for-codeigniter)
-        - [1.2.5. NodeJS](#125-nodejs)
-            - [1.2.5.1. Heroku-cli](#1251-heroku-cli)
-            - [1.2.5.2. html2jade](#1252-html2jade)
-            - [1.2.5.3. Pug beautify](#1253-pug-beautify)
-            - [1.2.5.4. Puglint](#1254-puglint)
-        - [1.2.6. HTML / CSS](#126-html--css)
-            - [1.2.6.1. Autoprefixer](#1261-autoprefixer)
-            - [1.2.6.2. HTMLHint](#1262-htmlhint)
-            - [1.2.6.3. stylelint](#1263-stylelint)
+        - [1.2.5. Laravel](#125-laravel)
+            - [1.2.5.1. Laravel 5 Snippets](#1251-laravel-5-snippets)
+            - [1.2.5.2. Laravel Blade Snippets](#1252-laravel-blade-snippets)
+        - [1.2.6. NodeJS](#126-nodejs)
+            - [1.2.6.1. Heroku-cli](#1261-heroku-cli)
+            - [1.2.6.2. html2jade](#1262-html2jade)
+            - [1.2.6.3. Pug beautify](#1263-pug-beautify)
+            - [1.2.6.4. Puglint](#1264-puglint)
+        - [1.2.7. HTML / CSS](#127-html--css)
+            - [1.2.7.1. Autoprefixer](#1271-autoprefixer)
+            - [1.2.7.2. HTMLHint](#1272-htmlhint)
+            - [1.2.7.3. stylelint](#1273-stylelint)
 
 <!-- /TOC -->
 
@@ -157,40 +160,50 @@ To make use of the more advanced IntelliSense you need to link your php.exe to V
 
 This extension dynamically adds IntelliSense for CodeIgniter by detecting the `system` folder in your project. After installation Visual Studio Code returns code completion for all the models and classes present in your code.
 
-### 1.2.5. NodeJS
+### 1.2.5. Laravel
+
+#### 1.2.5.1. Laravel 5 Snippets
+
+This extension helps you to write Laravel code faster. It automatically completes syntax to write routes, views and more.
+
+#### 1.2.5.2. Laravel Blade Snippets
+
+When writing code for views in the Blade template language for Laravel, this extension allows you to work faster because its autocompletion.
+
+### 1.2.6. NodeJS
 
 Pug is the HTML render standard for ExpressJS. With the following extensions you can increase your workflow with writing your template files.
 
-#### 1.2.5.1. Heroku-cli
+#### 1.2.6.1. Heroku-cli
 
 Quickly get your logs and check the status of online Heroku apps without leaving the editor. After installing the Heroku CLI to the OS of your choice, it will be possible to run heroku commands from the included terminal in Visual Studio Code.
 
-#### 1.2.5.2. html2jade
+#### 1.2.6.2. html2jade
 
 You might be aware of the online html2jade tool to instantly convert your HTML markup into Pug. However, you can take it to the next step by installing this plugin, allowing you to directly convert Html to Pug from within the editor.
 
-#### 1.2.5.3. Pug beautify
+#### 1.2.6.3. Pug beautify
 
 Pug beautify allows you to clean up your Pug and automatically format resulting in cleaner codes.
 
-#### 1.2.5.4. Puglint
+#### 1.2.6.4. Puglint
 
 To help understanding pug and producing better coding standards, puglint will help you with writing qualitative Pug templates.
 
-### 1.2.6. HTML / CSS
+### 1.2.7. HTML / CSS
 
-#### 1.2.6.1. Autoprefixer
+#### 1.2.7.1. Autoprefixer
 
 Tired of manually checking for browser backwards compatibility? Or do you want to ensure you're not forgetting any special prefixes in your CSS markup? Go and give the autoprefixer module a try!
 
 By opening the Code's built in command prompt you'll be able to use a flexible ui to automatically insert your prefixes. This extensions also works well in combination with Mixins.
 
-#### 1.2.6.2. HTMLHint
+#### 1.2.7.2. HTMLHint
 
 HTMLHint is an interesting extension to help as well with the quality of your code. This time your HTML markup shall be validated for various quality checks.
 
 This extension uses the NPM package with the same name. This can be either a locally installed package for the project or a global installation. If neither are found, an embedded version to the extension will be used.
 
-#### 1.2.6.3. stylelint
+#### 1.2.7.3. stylelint
 
 Validate your CSS markup on the go while coding. Automatically output problems and hints to improve quality to the panel of Visual Studio Code.
