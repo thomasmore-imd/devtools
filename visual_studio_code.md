@@ -14,6 +14,7 @@
             - [1.2.1.6. Live Server](#1216-live-server)
             - [1.2.1.7. Material Icon Theme](#1217-material-icon-theme)
             - [1.2.1.8. Paste and Indent](#1218-paste-and-indent)
+            - [1.2.1.9. VS Live Share](#1219-vs-live-share)
         - [1.2.2. Git](#122-git)
             - [1.2.2.1. gitignore](#1221-gitignore)
         - [1.2.3. Markdown](#123-markdown)
@@ -107,6 +108,10 @@ This list includes, but is not limited, to lib, images, js, ...
 #### 1.2.1.8. Paste and Indent
 
 Moving code blocks in Visual Studio Code doesn't always work very pretty. Especially while copy-pasting blocks of code the indenting might go completely wrong. This plugin automatically formats your code after doing a copy paste in most used development languages, so you don't need to worry yourself about keeping the indents clean.
+
+#### 1.2.1.9. VS Live Share
+
+This extension allows you to easily collaborate with colleagues on projects and group works. After installing the extension, two or more users can simultaneously develop on the same codebase, while not leaving their own workspace. This can especially be useful for helping each other out!
 
 ### 1.2.2. Git
 
