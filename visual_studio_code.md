@@ -29,15 +29,20 @@
         - [1.2.5. Laravel](#125-laravel)
             - [1.2.5.1. Laravel 5 Snippets](#1251-laravel-5-snippets)
             - [1.2.5.2. Laravel Blade Snippets](#1252-laravel-blade-snippets)
+            - [1.2.5.3. Laravel goto view](#1253-laravel-goto-view)
+            - [1.2.5.4. laravel-goto-controller](#1254-laravel-goto-controller)
         - [1.2.6. NodeJS](#126-nodejs)
             - [1.2.6.1. Heroku-cli](#1261-heroku-cli)
             - [1.2.6.2. html2jade](#1262-html2jade)
             - [1.2.6.3. Pug beautify](#1263-pug-beautify)
             - [1.2.6.4. Puglint](#1264-puglint)
-        - [1.2.7. HTML / CSS](#127-html--css)
-            - [1.2.7.1. Autoprefixer](#1271-autoprefixer)
-            - [1.2.7.2. HTMLHint](#1272-htmlhint)
-            - [1.2.7.3. stylelint](#1273-stylelint)
+        - [1.2.7. ASP.NET](#127-aspnet)
+            - [1.2.7.1. ASP.NET Helper](#1271-aspnet-helper)
+            - [1.2.7.2. C](#1272-c)
+        - [1.2.8. HTML / CSS](#128-html--css)
+            - [1.2.8.1. Autoprefixer](#1281-autoprefixer)
+            - [1.2.8.2. HTMLHint](#1282-htmlhint)
+            - [1.2.8.3. stylelint](#1283-stylelint)
 
 <!-- /TOC -->
 
@@ -170,6 +175,14 @@ This extension helps you to write Laravel code faster. It automatically complete
 
 When writing code for views in the Blade template language for Laravel, this extension allows you to work faster because its autocompletion.
 
+#### 1.2.5.3. Laravel goto view
+
+This extension updates the view() function in Laravel with a link to the view file to code faster.
+
+#### 1.2.5.4. laravel-goto-controller
+
+When using a controller in Laravel, this extension allows you to click on the controller and open the controller file.
+
 ### 1.2.6. NodeJS
 
 Pug is the HTML render standard for ExpressJS. With the following extensions you can increase your workflow with writing your template files.
@@ -190,20 +203,30 @@ Pug beautify allows you to clean up your Pug and automatically format resulting 
 
 To help understanding pug and producing better coding standards, puglint will help you with writing qualitative Pug templates.
 
-### 1.2.7. HTML / CSS
+### 1.2.7. ASP.NET
 
-#### 1.2.7.1. Autoprefixer
+#### 1.2.7.1. ASP.NET Helper
+
+This extension adds IntelliSense to your ASP.NET projects.
+
+#### 1.2.7.2. C#
+
+Allows you to write C# code faster by adding Syntax Highlighting, IntelliSense and more to your project.
+
+### 1.2.8. HTML / CSS
+
+#### 1.2.8.1. Autoprefixer
 
 Tired of manually checking for browser backwards compatibility? Or do you want to ensure you're not forgetting any special prefixes in your CSS markup? Go and give the autoprefixer module a try!
 
 By opening the Code's built in command prompt you'll be able to use a flexible ui to automatically insert your prefixes. This extensions also works well in combination with Mixins.
 
-#### 1.2.7.2. HTMLHint
+#### 1.2.8.2. HTMLHint
 
 HTMLHint is an interesting extension to help as well with the quality of your code. This time your HTML markup shall be validated for various quality checks.
 
 This extension uses the NPM package with the same name. This can be either a locally installed package for the project or a global installation. If neither are found, an embedded version to the extension will be used.
 
-#### 1.2.7.3. stylelint
+#### 1.2.8.3. stylelint
 
 Validate your CSS markup on the go while coding. Automatically output problems and hints to improve quality to the panel of Visual Studio Code.
