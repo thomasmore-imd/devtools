@@ -36,11 +36,11 @@ While testing the load performance of your app, this tool can be extra useful as
 
 A lot of times while working with JSON you might notice that output of scripts and APIs is being minified. This can make it harder to visually read and understand the output of these tools.
 
-JSON Viewer automatically highlights these pages and adds formatting for human reading. The extension also works for formatting php debugging.
+[JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=nl) automatically highlights these pages and adds formatting for human reading. The extension also works for formatting php debugging.
 
 ### 1.2.2. CSS Peeper
 
-CSS Peeper assists you in getting useful information about the design of webpages. After installation the extension can be accessed from the top right in Google Chrome, after which it opens a new pane. This pane has three tabs at the bottom for navigation.
+[CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) assists you in getting useful information about the design of webpages. After installation the extension can be accessed from the top right in Google Chrome, after which it opens a new pane. This pane has three tabs at the bottom for navigation.
 
 In the first tab opened by default, you can get a basic overview of the style for the page. The fonts for both the headings and body text are being listed and you can quickly check the loadtime of the present stylesheets.
 
@@ -50,7 +50,7 @@ Last but not least the assets tab can reveal all images, used on the webpage.
 
 ### 1.2.3. Fireshot
 
-Fireshot can automatically create screenshots of an entire webpage. This behavior can be customised to only screenshot the current content within the canvas or even a custom selection!
+[Fireshot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) can automatically create screenshots of an entire webpage. This behavior can be customised to only screenshot the current content within the canvas or even a custom selection!
 
 ### 1.2.4. Wappalyzer
 
