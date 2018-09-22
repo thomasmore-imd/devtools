@@ -96,7 +96,7 @@ Visualize and block the otherwise invisible websites that track your search and 
 * Load the pages you go to up to 44% faster and save up to 39% bandwidth.
 * Stop tracking by thousands of third-party sites.
 
-  [Disconnect](https://addons.mozilla.org/nl/firefox/addon/disconnect) is open-source, pay-what-you-want software.
+[Disconnect](https://addons.mozilla.org/nl/firefox/addon/disconnect) is open-source, pay-what-you-want software.
 
 ### 1.2.12. Flagfox
 
