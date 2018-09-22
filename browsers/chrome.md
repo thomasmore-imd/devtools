@@ -52,10 +52,6 @@ Last but not least the assets tab can reveal all images, used on the webpage.
 
 Fireshot can automatically create screenshots of an entire webpage. This behavior can be customised to only screenshot the current content within the canvas or even a custom selection!
 
-### 1.2.3. Fireshot
-
-Fireshot can automatically create screenshots of an entire webpage. This behavior can be customised to only screenshot the current content within the canvas or even a custom selection!
-
 ### 1.2.4. Wappalyzer
 
 [Wappalyzer](https://www.wappalyzer.com/) is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
