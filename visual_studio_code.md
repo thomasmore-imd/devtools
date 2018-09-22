@@ -29,8 +29,8 @@
         - [1.2.5. Laravel](#125-laravel)
             - [1.2.5.1. Laravel 5 Snippets](#1251-laravel-5-snippets)
             - [1.2.5.2. Laravel Blade Snippets](#1252-laravel-blade-snippets)
-            - [Laravel goto view](#laravel-goto-view)
-            - [laravel-goto-controller](#laravel-goto-controller)
+            - [1.2.5.3. Laravel goto view](#1253-laravel-goto-view)
+            - [1.2.5.4. laravel-goto-controller](#1254-laravel-goto-controller)
         - [1.2.6. NodeJS](#126-nodejs)
             - [1.2.6.1. Heroku-cli](#1261-heroku-cli)
             - [1.2.6.2. html2jade](#1262-html2jade)
@@ -175,11 +175,11 @@ This extension helps you to write Laravel code faster. It automatically complete
 
 When writing code for views in the Blade template language for Laravel, this extension allows you to work faster because its autocompletion.
 
-#### Laravel goto view
+#### 1.2.5.3. Laravel goto view
 
 This extension updates the view() function in Laravel with a link to the view file to code faster.
 
-#### laravel-goto-controller
+#### 1.2.5.4. laravel-goto-controller
 
 When using a controller in Laravel, this extension allows you to click on the controller and open the controller file.
 
