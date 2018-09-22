@@ -1,38 +1,50 @@
 # 1. Visual Studio Code
 
-* [1. Visual Studio Code](visual_studio_code.md#1-visual-studio-code)
-  * [1.1. Settings](visual_studio_code.md#11-settings)
-  * [1.2. Extensions](visual_studio_code.md#12-extensions)
-    * [1.2.1. General](visual_studio_code.md#121-general)
-      * [1.2.1.1. Auto Close Tag](visual_studio_code.md#1211-auto-close-tag)
-      * [1.2.1.2. Auto Rename Tag](visual_studio_code.md#1212-auto-rename-tag)
-      * [1.2.1.3. Auto Comment Blocks](visual_studio_code.md#1213-auto-comment-blocks)
-      * [1.2.1.4. Better Comments](visual_studio_code.md#1214-better-comments)
-      * [1.2.1.5. Code Spell Checker](visual_studio_code.md#1215-code-spell-checker)
-      * [1.2.1.6. Live Server](visual_studio_code.md#1216-live-server)
-      * [1.2.1.7. Material Icon Theme](visual_studio_code.md#1217-material-icon-theme)
-      * [1.2.1.8. Paste and Indent](visual_studio_code.md#1218-paste-and-indent)
-      * [1.2.1.9. VS Live Share](visual_studio_code.md#1219-vs-live-share)
-    * [1.2.2. Git](visual_studio_code.md#122-git)
-      * [1.2.2.1. gitignore](visual_studio_code.md#1221-gitignore)
-    * [1.2.3. Markdown](visual_studio_code.md#123-markdown)
-      * [1.2.3.1. Auto-Open Markdown](visual_studio_code.md#1231-auto-open-markdown)
-      * [1.2.3.2. Markdown TOC](visual_studio_code.md#1232-markdown-toc)
-      * [1.2.3.3. Markdownlint](visual_studio_code.md#1233-markdownlint)
-    * [1.2.4. PHP](visual_studio_code.md#124-php)
-      * [1.2.4.1. PHP Debug](visual_studio_code.md#1241-php-debug)
-      * [1.2.4.2. PHP Getters & Setters](visual_studio_code.md#1242-php-getters--setters)
-      * [1.2.4.3. PHP IntelliSense](visual_studio_code.md#1243-php-intellisense)
-      * [1.2.4.4. PHP IntelliSense for CodeIgniter](visual_studio_code.md#1244-php-intellisense-for-codeigniter)
-    * [1.2.5. NodeJS](visual_studio_code.md#125-nodejs)
-      * [1.2.5.1. Heroku-cli](visual_studio_code.md#1251-heroku-cli)
-      * [1.2.5.2. html2jade](visual_studio_code.md#1252-html2jade)
-      * [1.2.5.3. Pug beautify](visual_studio_code.md#1253-pug-beautify)
-      * [1.2.5.4. Puglint](visual_studio_code.md#1254-puglint)
-    * [1.2.6. HTML / CSS](visual_studio_code.md#126-html--css)
-      * [1.2.6.1. Autoprefixer](visual_studio_code.md#1261-autoprefixer)
-      * [1.2.6.2. HTMLHint](visual_studio_code.md#1262-htmlhint)
-      * [1.2.6.3. stylelint](visual_studio_code.md#1263-stylelint)
+<!-- TOC -->
+
+- [1. Visual Studio Code](#1-visual-studio-code)
+    - [1.1. Settings](#11-settings)
+    - [1.2. Extensions](#12-extensions)
+        - [1.2.1. General](#121-general)
+            - [1.2.1.1. Auto Close Tag](#1211-auto-close-tag)
+            - [1.2.1.2. Auto Rename Tag](#1212-auto-rename-tag)
+            - [1.2.1.3. Auto Comment Blocks](#1213-auto-comment-blocks)
+            - [1.2.1.4. Better Comments](#1214-better-comments)
+            - [1.2.1.5. Code Spell Checker](#1215-code-spell-checker)
+            - [1.2.1.6. Live Server](#1216-live-server)
+            - [1.2.1.7. Material Icon Theme](#1217-material-icon-theme)
+            - [1.2.1.8. Paste and Indent](#1218-paste-and-indent)
+            - [1.2.1.9. VS Live Share](#1219-vs-live-share)
+        - [1.2.2. Git](#122-git)
+            - [1.2.2.1. gitignore](#1221-gitignore)
+        - [1.2.3. Markdown](#123-markdown)
+            - [1.2.3.1. Auto-Open Markdown](#1231-auto-open-markdown)
+            - [1.2.3.2. Markdown TOC](#1232-markdown-toc)
+            - [1.2.3.3. Markdownlint](#1233-markdownlint)
+        - [1.2.4. PHP](#124-php)
+            - [1.2.4.1. PHP Debug](#1241-php-debug)
+            - [1.2.4.2. PHP Getters & Setters](#1242-php-getters--setters)
+            - [1.2.4.3. PHP IntelliSense](#1243-php-intellisense)
+            - [1.2.4.4. PHP IntelliSense for CodeIgniter](#1244-php-intellisense-for-codeigniter)
+        - [1.2.5. Laravel](#125-laravel)
+            - [1.2.5.1. Laravel 5 Snippets](#1251-laravel-5-snippets)
+            - [1.2.5.2. Laravel Blade Snippets](#1252-laravel-blade-snippets)
+            - [1.2.5.3. Laravel goto view](#1253-laravel-goto-view)
+            - [1.2.5.4. laravel-goto-controller](#1254-laravel-goto-controller)
+        - [1.2.6. NodeJS](#126-nodejs)
+            - [1.2.6.1. Heroku-cli](#1261-heroku-cli)
+            - [1.2.6.2. html2jade](#1262-html2jade)
+            - [1.2.6.3. Pug beautify](#1263-pug-beautify)
+            - [1.2.6.4. Puglint](#1264-puglint)
+        - [1.2.7. ASP.NET](#127-aspnet)
+            - [1.2.7.1. ASP.NET Helper](#1271-aspnet-helper)
+            - [1.2.7.2. C](#1272-c)
+        - [1.2.8. HTML / CSS](#128-html--css)
+            - [1.2.8.1. Autoprefixer](#1281-autoprefixer)
+            - [1.2.8.2. HTMLHint](#1282-htmlhint)
+            - [1.2.8.3. stylelint](#1283-stylelint)
+
+<!-- /TOC -->
 
 ## 1.1. Settings
 
@@ -153,41 +165,69 @@ To make use of the more advanced IntelliSense you need to link your php.exe to V
 
 This extension dynamically adds IntelliSense for CodeIgniter by detecting the `system` folder in your project. After installation Visual Studio Code returns code completion for all the models and classes present in your code.
 
-### 1.2.5. NodeJS
+### 1.2.5. Laravel
+
+#### 1.2.5.1. Laravel 5 Snippets
+
+This extension helps you to write Laravel code faster. It automatically completes syntax to write routes, views and more.
+
+#### 1.2.5.2. Laravel Blade Snippets
+
+When writing code for views in the Blade template language for Laravel, this extension allows you to work faster because its autocompletion.
+
+#### 1.2.5.3. Laravel goto view
+
+This extension updates the view() function in Laravel with a link to the view file to code faster.
+
+#### 1.2.5.4. laravel-goto-controller
+
+When using a controller in Laravel, this extension allows you to click on the controller and open the controller file.
+
+### 1.2.6. NodeJS
 
 Pug is the HTML render standard for ExpressJS. With the following extensions you can increase your workflow with writing your template files.
 
-#### 1.2.5.1. Heroku-cli
+#### 1.2.6.1. Heroku-cli
 
 Quickly get your logs and check the status of online Heroku apps without leaving the editor. After installing the Heroku CLI to the OS of your choice, it will be possible to run heroku commands from the included terminal in Visual Studio Code.
 
-#### 1.2.5.2. html2jade
+#### 1.2.6.2. html2jade
 
 You might be aware of the online html2jade tool to instantly convert your HTML markup into Pug. However, you can take it to the next step by installing this plugin, allowing you to directly convert Html to Pug from within the editor.
 
-#### 1.2.5.3. Pug beautify
+#### 1.2.6.3. Pug beautify
 
 Pug beautify allows you to clean up your Pug and automatically format resulting in cleaner codes.
 
-#### 1.2.5.4. Puglint
+#### 1.2.6.4. Puglint
 
 To help understanding pug and producing better coding standards, puglint will help you with writing qualitative Pug templates.
 
-### 1.2.6. HTML / CSS
+### 1.2.7. ASP.NET
 
-#### 1.2.6.1. Autoprefixer
+#### 1.2.7.1. ASP.NET Helper
+
+This extension adds IntelliSense to your ASP.NET projects.
+
+#### 1.2.7.2. C#
+
+Allows you to write C# code faster by adding Syntax Highlighting, IntelliSense and more to your project.
+
+### 1.2.8. HTML / CSS
+
+#### 1.2.8.1. Autoprefixer
 
 Tired of manually checking for browser backwards compatibility? Or do you want to ensure you're not forgetting any special prefixes in your CSS markup? Go and give the autoprefixer module a try!
 
 By opening the Code's built in command prompt you'll be able to use a flexible ui to automatically insert your prefixes. This extensions also works well in combination with Mixins.
 
-#### 1.2.6.2. HTMLHint
+#### 1.2.8.2. HTMLHint
 
 HTMLHint is an interesting extension to help as well with the quality of your code. This time your HTML markup shall be validated for various quality checks.
 
 This extension uses the NPM package with the same name. This can be either a locally installed package for the project or a global installation. If neither are found, an embedded version to the extension will be used.
 
-#### 1.2.6.3. stylelint
+#### 1.2.8.3. stylelint
 
 Validate your CSS markup on the go while coding. Automatically output problems and hints to improve quality to the panel of Visual Studio Code.
 
