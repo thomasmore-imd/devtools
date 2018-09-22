@@ -1,51 +1,5 @@
 # 1. Visual Studio Code
 
-<!-- TOC -->
-
-- [1. Visual Studio Code](#1-visual-studio-code)
-    - [1.1. Settings](#11-settings)
-    - [1.2. Extensions](#12-extensions)
-        - [1.2.1. General](#121-general)
-            - [1.2.1.1. Auto Close Tag](#1211-auto-close-tag)
-            - [1.2.1.2. Auto Rename Tag](#1212-auto-rename-tag)
-            - [1.2.1.3. Auto Comment Blocks](#1213-auto-comment-blocks)
-            - [1.2.1.4. Better Comments](#1214-better-comments)
-            - [1.2.1.5. Code Spell Checker](#1215-code-spell-checker)
-            - [1.2.1.6. Live Server](#1216-live-server)
-            - [1.2.1.7. Material Icon Theme](#1217-material-icon-theme)
-            - [1.2.1.8. Paste and Indent](#1218-paste-and-indent)
-            - [1.2.1.9. VS Live Share](#1219-vs-live-share)
-        - [1.2.2. Git](#122-git)
-            - [1.2.2.1. gitignore](#1221-gitignore)
-        - [1.2.3. Markdown](#123-markdown)
-            - [1.2.3.1. Auto-Open Markdown](#1231-auto-open-markdown)
-            - [1.2.3.2. Markdown TOC](#1232-markdown-toc)
-            - [1.2.3.3. Markdownlint](#1233-markdownlint)
-        - [1.2.4. PHP](#124-php)
-            - [1.2.4.1. PHP Debug](#1241-php-debug)
-            - [1.2.4.2. PHP Getters & Setters](#1242-php-getters--setters)
-            - [1.2.4.3. PHP IntelliSense](#1243-php-intellisense)
-            - [1.2.4.4. PHP IntelliSense for CodeIgniter](#1244-php-intellisense-for-codeigniter)
-        - [1.2.5. Laravel](#125-laravel)
-            - [1.2.5.1. Laravel 5 Snippets](#1251-laravel-5-snippets)
-            - [1.2.5.2. Laravel Blade Snippets](#1252-laravel-blade-snippets)
-            - [1.2.5.3. Laravel goto view](#1253-laravel-goto-view)
-            - [1.2.5.4. laravel-goto-controller](#1254-laravel-goto-controller)
-        - [1.2.6. NodeJS](#126-nodejs)
-            - [1.2.6.1. Heroku-cli](#1261-heroku-cli)
-            - [1.2.6.2. html2jade](#1262-html2jade)
-            - [1.2.6.3. Pug beautify](#1263-pug-beautify)
-            - [1.2.6.4. Puglint](#1264-puglint)
-        - [1.2.7. ASP.NET](#127-aspnet)
-            - [1.2.7.1. ASP.NET Helper](#1271-aspnet-helper)
-            - [1.2.7.2. C](#1272-c)
-        - [1.2.8. HTML / CSS](#128-html--css)
-            - [1.2.8.1. Autoprefixer](#1281-autoprefixer)
-            - [1.2.8.2. HTMLHint](#1282-htmlhint)
-            - [1.2.8.3. stylelint](#1283-stylelint)
-
-<!-- /TOC -->
-
 ## 1.1. Settings
 
 It's easy to enhance Visual Studio Code with quality of life improvements in Visual Studio Code without any extensions to begin with! As the IDE with a JSON-like settings formatting, you can quickly type in your preferences without having to search for them in a standard GUI.
@@ -230,4 +184,3 @@ This extension uses the NPM package with the same name. This can be either a loc
 #### 1.2.8.3. stylelint
 
 Validate your CSS markup on the go while coding. Automatically output problems and hints to improve quality to the panel of Visual Studio Code.
-

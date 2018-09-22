@@ -12,4 +12,3 @@ A list of useful devtools and plugins for the IMD dev community.
 * [Google Chrome](chrome.md)
 * [Firefox](firefox.md)
 * [Internet Explorer](internet_explorer.md)
-

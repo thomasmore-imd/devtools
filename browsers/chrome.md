@@ -1,16 +1,5 @@
 # 1. Google Chrome
 
-* [1. Google Chrome](chrome.md#1-google-chrome)
-  * [1.1. Developer Tools](chrome.md#11-developer-tools)
-    * [1.1.1. Preferences](chrome.md#111-preferences)
-      * [1.1.1.1. Device Toolbar](chrome.md#1111-device-toolbar)
-  * [1.2. Extensions](chrome.md#12-extensions)
-    * [1.2.1. JSON Viewer](chrome.md#121-json-viewer)
-    * [1.2.2. CSS Peeper](chrome.md#122-css-peeper)
-    * [1.2.3. Fireshot](chrome.md#123-fireshot)
-    * [1.2.4. Wappalyzer](chrome.md#124-wappalyzer)
-    * [1.2.5. Postman](chrome.md#125-postman)
-
 ## 1.1. Developer Tools
 
 ### 1.1.1. Preferences
@@ -74,4 +63,3 @@ Fireshot can automatically create screenshots of an entire webpage. This behavio
 ### 1.2.5. Postman
 
 [Postman](https://www.getpostman.com) makes API development faster, easier, and better. The app is available as Chrome app and native app. Postman provides an slick GUI and a large number of tools that support the entire API workflow. API monitoring, debugging with tests/scripts/variables/..., automated testing integrated into your CI/CD pipeline, create and publish web-viewable documentation on the fly,...
-

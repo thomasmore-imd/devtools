@@ -1,47 +1,5 @@
 # 1. Firefox
 
-* [1. Firefox](firefox.md#1-firefox)
-  * [1.1. Versions](firefox.md#11-versions)
-    * [1.1.1. Firefox Beta](firefox.md#111-normal-firefox)
-    * [1.1.2. Firefox Beta](firefox.md#112-firefox-beta)
-    * [1.1.3. Firefox Developer Edition](firefox.md#113-firefox-developer-edition)
-    * [1.1.4. Firefox Nightly](firefox.md#114-firefox-nightly)
-  * [1.2. Extensions](firefox.md#12-extensions)
-    * [1.2.1. Firefox Multi-Account Containers](firefox.md#121-firefox-multi-account-containers)
-    * [1.2.2. FoxyProxy](firefox.md#122-foxyproxy)
-    * [1.2.3. Wappalyzer](firefox.md#123-wappalyzer)
-    * [1.2.4. Tomato Clock](firefox.md#124-tomato-clock)
-    * [1.2.5. React Developer Tools](firefox.md#125-react-developer-tools)
-    * [1.2.6. Forest](firefox.md#126-forest)
-    * [1.2.7. Developer Excuses](firefox.md#127-developer-excuses)
-    * [1.2.8. Octotree](firefox.md#128-octotree)
-    * [1.2.9. Ghostery](firefox.md#129-ghostery)
-    * [1.2.10. User Agent Switcher](firefox.md#1210-user-agent-switcher)
-    * [1.2.11. Disconnect](firefox.md#1211-disconnect)
-    * [1.2.12. Flagfox](firefox.md#1212-flagfox)
-    * [1.2.13. Vue.js devtools](firefox.md#1213-vue.js-devtools)
-    * [1.2.14. Tampermonkey](firefox.md#1214-tampermonkey)
-    * [1.2.15. Perfectpixel](firefox.md#1215-perfectpixel)
-    * [1.2.16. RESTer](firefox.md#1216-rester)
-    * [1.2.17. Foxy SEO tools](firefox.md#1217-foxy-seo-tools)
-    * [1.2.18. xDebug Ext](firefox.md#1218-xdebug-ext)
-    * [1.2.19. Hackbar Quantum](firefox.md#1219-hackbar-quantum)
-    * [1.2.20. Compat Report](firefox.md#1220-compat-report)
-    * [1.2.21. Disable WebRTC](firefox.md#1221-disable-webrtc)
-    * [1.2.22. Empty Cache Button](firefox.md#1222-empty-cache-button)
-    * [1.2.23. SEOQuake](firefox.md#1223-seoquake)
-    * [1.2.24. Colorzilla](firefox.md#1224-colorzilla)
-    * [1.2.25. Blackfire Companion](firefox.md#1225-blackfire-companion)
-    * [1.2.26. Bootstrap Responsive Helper](firefox.md#1226-bootstrap---responsive-helper)
-    * [1.2.27. Windowsizer](firefox.md#1227-windowsizer)
-    * [1.2.28. Formfiller](firefox.md#1228-formfiller)
-    * [1.2.29. Spector.js](firefox.md#1229-spector.js)
-    * [1.2.30. Scrummer](firefox.md#1230-scrummer)
-    * [1.2.31. NoScript](firefox.md#1231-noscript-security-suite)
-    * [1.2.32. No Miner](firefox.md#1232-no-miner)
-    * [1.2.33. HTTP Header Live](firefox.md#1233-http-header-live)
-    * [1.2.34. Reverse image search](firefox.md#1234-reverse-image-search)
-
 ## 1.1. Versions
 
 ### 1.1.1. Normal Firefox
@@ -335,4 +293,3 @@ If you want to add a certain website as an exception, you can click on the plugi
 [Reverse image search](https://addons.mozilla.org/nl/firefox/addon/capture-reverse-image-search) will allow you to find similar images or the original image source. This is a useful tool to find for instance the actual image name or detect whether this image is unique or is just a copy or a modified copy of an already existed image on the web.
 
 In most cases, images are embedded in the background page consequently it is not straightforward to find the actual URLs to be passed to a reverse image search engine. Also, it is possible that the image you are looking for is just part of a video stream. This extension solves these problems by providing capturing tool in the right-click context menu. Simply select the item and capture a portion of the screen. The captured image is automatically sent to either "TinEye" or "Google Images" search engine and after successful upload, a new page with the matching results is displayed.
-

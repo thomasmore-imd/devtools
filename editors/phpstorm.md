@@ -1,39 +1,5 @@
 # 1. PhpStorm
 
-* [1. PhpStorm](phpstorm.md#1-phpstorm)
-  * [1.1. Settings](phpstorm.md#11-settings)
-    * [1.1.1. Languages & Frameworks](phpstorm.md#111-languages--frameworks)
-      * [1.1.1.1. JavaScript](phpstorm.md#1111-javascript)
-        * [1.1.1.1.1. Setting up Ecmascript](phpstorm.md#11111-setting-up-ecmascript)
-        * [1.1.1.1.2. Libraries](phpstorm.md#11112-libraries)
-        * [1.1.1.1.3. Code Quality Tools](phpstorm.md#11113-code-quality-tools)
-      * [1.1.1.2. PHP](phpstorm.md#1112-php)
-      * [1.1.1.3. Node.js and NPM](phpstorm.md#1113-nodejs-and-npm)
-      * [1.1.1.4. Stylesheets](phpstorm.md#1114-stylesheets)
-        * [1.1.1.4.1. Stylelint](phpstorm.md#11141-stylelint)
-  * [1.2. Extensions](phpstorm.md#12-extensions)
-    * [1.2.1. .ignore](phpstorm.md#121-ignore)
-    * [1.2.2. CodeGlance](phpstorm.md#122-codeglance)
-    * [1.2.3. PHP Composer.json support](phpstorm.md#123-php-composerjson-support)
-    * [1.2.4. PHP Inspections \(EA Extended\)](phpstorm.md#124-php-inspections-ea-extended)
-    * [1.2.5. Swagger Plugin](phpstorm.md#125-swagger-plugin)
-    * [1.2.6. LiveEdit](phpstorm.md#126-liveedit)
-    * [1.2.7. Symfony Plugin](phpstorm.md#127-symfony-plugin)
-    * [1.2.8. Mongo Plugin](phpstorm.md#128-mongo-plugin)
-    * [1.2.9. .env files support](phpstorm.md#129-env-files-support)
-    * [1.2.10. Git Flow](phpstorm.md#1210-git-flow)
-    * [1.2.11. PhoneGap / Cordova Plugin](phpstorm.md#1211-phonegap--cordova-plugin)
-    * [1.2.12. Twig Support](phpstorm.md#1212-twig-support)
-    * [1.2.13. Bitbucket Linky](phpstorm.md#1213-bitbucket-linky)
-    * [1.2.14. GitToolBox](phpstorm.md#1214-gittoolbox)
-    * [1.2.15. CamelCase](phpstorm.md#1215-camelcase)
-    * [1.2.16. JS ToolBox](phpstorm.md#1216-js-toolbox)
-    * [1.2.17. gfm](phpstorm.md#1217-gfm)
-    * [1.2.18. PHP Annotations](phpstorm.md#1218-php-annotations)
-  * [1.3. Tips to make your work environment faster](phpstorm.md#13-tips-to-make-your-work-environment-faster)
-    * [1.3.1. Disable Reopen Last Project on Startup](phpstorm.md#131-disable-reopen-last-project-on-startup)
-    * [1.3.2. Disable Unused Plugins](phpstorm.md#132-disable-unused-plugins)
-
 ## 1.1. Settings
 
 The behavior of PhpStorm can be influenced through a complex GUI. In this section we'll guide you through a few interesting and helpful settings.
@@ -197,4 +163,3 @@ Go to: preferences -&gt; type ‘reopen’ -&gt; Uncheck ‘Reopen last project 
 There are a lot of useful plugins but there might be some you don't really need on a regular basis. So you might disable those unused plugins to improve loading time.
 
 Go to: preferences -&gt; plugins and disable everything you don’t need.
-

@@ -1,10 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [Browsers](browsers.md)
-    * [Google Chrome](chrome.md)
-    * [Firefox](firefox.md)
-    * [Internet Explorer](internet_explorer.md)
-* [Editors](editors.md)
-    * [PhpStorm](phpstorm.md)
-    * [Visual Studio Code](visual_studio_code.md)
+* [Browsers](browsers/README.md)
+    * [Google Chrome](browsers/chrome.md)
+    * [Firefox](browsers/firefox.md)
+    * [Internet Explorer](browsers/internet_explorer.md)
+* [Editors](editors/README.md)
+    * [PhpStorm](editors/phpstorm.md)
+    * [Visual Studio Code](editors/visual_studio_code.md)
