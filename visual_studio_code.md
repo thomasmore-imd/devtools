@@ -1,42 +1,38 @@
 # 1. Visual Studio Code
 
-<!-- TOC -->
-
-- [1. Visual Studio Code](#1-visual-studio-code)
-    - [1.1. Settings](#11-settings)
-    - [1.2. Extensions](#12-extensions)
-        - [1.2.1. General](#121-general)
-            - [1.2.1.1. Auto Close Tag](#1211-auto-close-tag)
-            - [1.2.1.2. Auto Rename Tag](#1212-auto-rename-tag)
-            - [1.2.1.3. Auto Comment Blocks](#1213-auto-comment-blocks)
-            - [1.2.1.4. Better Comments](#1214-better-comments)
-            - [1.2.1.5. Code Spell Checker](#1215-code-spell-checker)
-            - [1.2.1.6. Live Server](#1216-live-server)
-            - [1.2.1.7. Material Icon Theme](#1217-material-icon-theme)
-            - [1.2.1.8. Paste and Indent](#1218-paste-and-indent)
-            - [1.2.1.9. VS Live Share](#1219-vs-live-share)
-        - [1.2.2. Git](#122-git)
-            - [1.2.2.1. gitignore](#1221-gitignore)
-        - [1.2.3. Markdown](#123-markdown)
-            - [1.2.3.1. Auto-Open Markdown](#1231-auto-open-markdown)
-            - [1.2.3.2. Markdown TOC](#1232-markdown-toc)
-            - [1.2.3.3. Markdownlint](#1233-markdownlint)
-        - [1.2.4. PHP](#124-php)
-            - [1.2.4.1. PHP Debug](#1241-php-debug)
-            - [1.2.4.2. PHP Getters & Setters](#1242-php-getters--setters)
-            - [1.2.4.3. PHP IntelliSense](#1243-php-intellisense)
-            - [1.2.4.4. PHP IntelliSense for CodeIgniter](#1244-php-intellisense-for-codeigniter)
-        - [1.2.5. NodeJS](#125-nodejs)
-            - [1.2.5.1. Heroku-cli](#1251-heroku-cli)
-            - [1.2.5.2. html2jade](#1252-html2jade)
-            - [1.2.5.3. Pug beautify](#1253-pug-beautify)
-            - [1.2.5.4. Puglint](#1254-puglint)
-        - [1.2.6. HTML / CSS](#126-html--css)
-            - [1.2.6.1. Autoprefixer](#1261-autoprefixer)
-            - [1.2.6.2. HTMLHint](#1262-htmlhint)
-            - [1.2.6.3. stylelint](#1263-stylelint)
-
-<!-- /TOC -->
+* [1. Visual Studio Code](visual_studio_code.md#1-visual-studio-code)
+  * [1.1. Settings](visual_studio_code.md#11-settings)
+  * [1.2. Extensions](visual_studio_code.md#12-extensions)
+    * [1.2.1. General](visual_studio_code.md#121-general)
+      * [1.2.1.1. Auto Close Tag](visual_studio_code.md#1211-auto-close-tag)
+      * [1.2.1.2. Auto Rename Tag](visual_studio_code.md#1212-auto-rename-tag)
+      * [1.2.1.3. Auto Comment Blocks](visual_studio_code.md#1213-auto-comment-blocks)
+      * [1.2.1.4. Better Comments](visual_studio_code.md#1214-better-comments)
+      * [1.2.1.5. Code Spell Checker](visual_studio_code.md#1215-code-spell-checker)
+      * [1.2.1.6. Live Server](visual_studio_code.md#1216-live-server)
+      * [1.2.1.7. Material Icon Theme](visual_studio_code.md#1217-material-icon-theme)
+      * [1.2.1.8. Paste and Indent](visual_studio_code.md#1218-paste-and-indent)
+      * [1.2.1.9. VS Live Share](visual_studio_code.md#1219-vs-live-share)
+    * [1.2.2. Git](visual_studio_code.md#122-git)
+      * [1.2.2.1. gitignore](visual_studio_code.md#1221-gitignore)
+    * [1.2.3. Markdown](visual_studio_code.md#123-markdown)
+      * [1.2.3.1. Auto-Open Markdown](visual_studio_code.md#1231-auto-open-markdown)
+      * [1.2.3.2. Markdown TOC](visual_studio_code.md#1232-markdown-toc)
+      * [1.2.3.3. Markdownlint](visual_studio_code.md#1233-markdownlint)
+    * [1.2.4. PHP](visual_studio_code.md#124-php)
+      * [1.2.4.1. PHP Debug](visual_studio_code.md#1241-php-debug)
+      * [1.2.4.2. PHP Getters & Setters](visual_studio_code.md#1242-php-getters--setters)
+      * [1.2.4.3. PHP IntelliSense](visual_studio_code.md#1243-php-intellisense)
+      * [1.2.4.4. PHP IntelliSense for CodeIgniter](visual_studio_code.md#1244-php-intellisense-for-codeigniter)
+    * [1.2.5. NodeJS](visual_studio_code.md#125-nodejs)
+      * [1.2.5.1. Heroku-cli](visual_studio_code.md#1251-heroku-cli)
+      * [1.2.5.2. html2jade](visual_studio_code.md#1252-html2jade)
+      * [1.2.5.3. Pug beautify](visual_studio_code.md#1253-pug-beautify)
+      * [1.2.5.4. Puglint](visual_studio_code.md#1254-puglint)
+    * [1.2.6. HTML / CSS](visual_studio_code.md#126-html--css)
+      * [1.2.6.1. Autoprefixer](visual_studio_code.md#1261-autoprefixer)
+      * [1.2.6.2. HTMLHint](visual_studio_code.md#1262-htmlhint)
+      * [1.2.6.3. stylelint](visual_studio_code.md#1263-stylelint)
 
 ## 1.1. Settings
 
@@ -46,26 +42,26 @@ When you start out with the IDE settings, you receive two empty { } brackets. In
 
 Settings use a combination of dots and camelCase to spell out toggles you can set up.
 
-- files.autoSave
-  - onFocusChange
-- Auto save files on switching between files or windows.
-  - onWindowChange
-    - Auto save files on switching windows on your operation system.
-- editor.minimap.enabled
-  - true (default)
-  - false
-    - Hide the minimap, giving more breathing room for your code
-- editor.wordWrap
-  - true
-    - Wrap words to disable vertical scrolling for better usability.
-- emmet.triggerExpansionOnTab
-  - true
-    - Allows you to use Emmet auto completion in some special situations where it'd be disabled by standard.
-- editor.multiCursorModifier
-  - alt (default)
-    - the standard keybind as seen in PhpStorm.
-  - ctrlCmd
-    - Changes the keybind to ctrl (Windows) or command (macOS) as seen in Brackets.
+* files.autoSave
+  * onFocusChange
+* Auto save files on switching between files or windows.
+  * onWindowChange
+    * Auto save files on switching windows on your operation system.
+* editor.minimap.enabled
+  * true \(default\)
+  * false
+    * Hide the minimap, giving more breathing room for your code
+* editor.wordWrap
+  * true
+    * Wrap words to disable vertical scrolling for better usability.
+* emmet.triggerExpansionOnTab
+  * true
+    * Allows you to use Emmet auto completion in some special situations where it'd be disabled by standard.
+* editor.multiCursorModifier
+  * alt \(default\)
+    * the standard keybind as seen in PhpStorm.
+  * ctrlCmd
+    * Changes the keybind to ctrl \(Windows\) or command \(macOS\) as seen in Brackets.
 
 ## 1.2. Extensions
 
@@ -97,7 +93,7 @@ By standard, this extension supports English for proofreading your code, to buil
 
 #### 1.2.1.6. Live Server
 
-Live Server adds the Brackets-like live previewing to Visual Studio Code. Support for live previewing works out of the box post-installation by using the *go live* button in the task bar inside the editor.
+Live Server adds the Brackets-like live previewing to Visual Studio Code. Support for live previewing works out of the box post-installation by using the _go live_ button in the task bar inside the editor.
 
 #### 1.2.1.7. Material Icon Theme
 
@@ -139,7 +135,7 @@ In most cases you can automatically fix issues and read learn more about the gui
 
 #### 1.2.4.1. PHP Debug
 
-After installing and configuring XDebug on your device it will be possible to debug PHP in Visual Studio Code. 
+After installing and configuring XDebug on your device it will be possible to debug PHP in Visual Studio Code.
 
 #### 1.2.4.2. PHP Getters & Setters
 
@@ -194,3 +190,4 @@ This extension uses the NPM package with the same name. This can be either a loc
 #### 1.2.6.3. stylelint
 
 Validate your CSS markup on the go while coding. Automatically output problems and hints to improve quality to the panel of Visual Studio Code.
+
