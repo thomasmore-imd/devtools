@@ -81,6 +81,12 @@ This extension allows you to easily collaborate with colleagues on projects and 
 
 This extension allows you to directly pull premade .gitignore templates from a public library. In the library you can find premades for most languages and libraries, including Wordpress, Drupal, Node and many more!
 
+
+#### 1.2.2.2. gitflow
+
+This extension provides integration and support for gitflow in visual studio code. No need to work in your terminal to setup your features and releases.
+
+
 ### 1.2.3. Markdown
 
 #### 1.2.3.1. Auto-Open Markdown
