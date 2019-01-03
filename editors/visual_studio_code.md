@@ -200,3 +200,9 @@ This extension uses the NPM package with the same name. This can be either a loc
 #### 1.2.8.3. Stylelint
 
 Stylelint automatically validates your CSS markup on the go while coding. It automatically outputs problems and hints to improve quality to the panel of Visual Studio Code.
+
+### 1.2.9. VueJS
+
+#### 1.2.9.1. Vetur
+
+Vetur is a must-have for anyone working with VueJS inside Visual Studio Code. The Extension adds auto-completion, syntax highlighting, linting and more. The developer behind Vetur even made a great documentation for working with the extension. Check it out!
