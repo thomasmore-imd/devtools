@@ -127,23 +127,27 @@ This extension dynamically adds IntelliSense for CodeIgniter by detecting the `s
 
 ### 1.2.5. Laravel
 
-#### 1.2.5.1. Laravel Blade Spacer
+#### 1.2.5.1. Laravel Artisan
+
+With Laravel Artisan you can easily run artisan commands from the command palette in Visual Studio Code.
+
+#### 1.2.5.2. Laravel Blade Spacer
 
 While writing Laravel Blade templates this extension will automatically add spaces to your markers.
 
-#### 1.2.5.2. Laravel 5 Snippets
+#### 1.2.5.3. Laravel 5 Snippets
 
 This extension helps you to write Laravel code faster. It automatically completes syntax to write routes, views and more.
 
-#### 1.2.5.3. Laravel Blade Snippets
+#### 1.2.5.4. Laravel Blade Snippets
 
 When writing code for views in the Blade template language for Laravel, this extension allows you to work faster because its autocompletion.
 
-#### 1.2.5.4. Laravel goto view
+#### 1.2.5.5. Laravel goto view
 
 This extension updates the view() function in Laravel with a link to the view file to code faster.
 
-#### 1.2.5.5. laravel-goto-controller
+#### 1.2.5.6. laravel-goto-controller
 
 When using a controller in Laravel, this extension allows you to click on the controller and open the controller file.
 
