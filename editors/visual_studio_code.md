@@ -35,43 +35,47 @@ Settings use a combination of dots and camelCase to spell out toggles you can se
 
 General extensions to improve the workflow of Code and add features missing from PhpStorm.
 
-#### 1.2.1.1. Auto Close Tag
+#### 1.2.1.1. Apache Conf
+
+This extension adds useful syntax highlighting for Apache files - like .htaccess for example.
+
+#### 1.2.1.2. Auto Close Tag
 
 Adds the functionality to auto close both HTML and XMl tags while working without Emmett.
 
-#### 1.2.1.2. Auto Rename Tag
+#### 1.2.1.3. Auto Rename Tag
 
 Do you remember the times your layout or code broke because you updated the opening tag, but forgot to update the closing tags? With the auto renaming tag you can add this missing functionality from PhpStorm over into Visual Studio Code!
 
-#### 1.2.1.3. Auto Comment Blocks
+#### 1.2.1.4. Auto Comment Blocks
 
 This plugin adds the PhpStorm functionality of automatically creating comment blocks. By writing `/**` Visual Studio Code will create a comment block, adding asteriks to each line.
 
-#### 1.2.1.4. Better Comments
+#### 1.2.1.5. Better Comments
 
 By using the Better Comments plugin you can add styles to your comment lines. This can be easily done by annotating, which directly visualizes each comment line to help in managing your code.
 
-#### 1.2.1.5. Code Spell Checker
+#### 1.2.1.6. Code Spell Checker
 
 The Code Spell Checker can add spelling and grammar control to the editor. This extension also works great with camelCase for detecting different words joined together.
 
 By standard, this extension supports English for proofreading your code, to build upon this, the developer has also released child extensions extending the module with other languages.
 
-#### 1.2.1.6. Live Server
+#### 1.2.1.7. Live Server
 
 Live Server adds the Brackets-like live previewing to Visual Studio Code. Support for live previewing works out of the box post-installation by using the _go live_ button in the task bar inside the editor.
 
-#### 1.2.1.7. Material Icon Theme
+#### 1.2.1.8. Material Icon Theme
 
 With the Material Icon Theme, you can add stylized icons to not only improve the designs of existing icons, but also add a completely new set for folders. This improves readability and recognizability for the names we use for structuring folders.
 
 This list includes, but is not limited, to lib, images, js, ...
 
-#### 1.2.1.8. Paste and Indent
+#### 1.2.1.9. Paste and Indent
 
 Moving code blocks in Visual Studio Code doesn't always work very pretty. Especially while copy-pasting blocks of code the indenting might go completely wrong. This plugin automatically formats your code after doing a copy paste in most used development languages, so you don't need to worry yourself about keeping the indents clean.
 
-#### 1.2.1.9. VS Live Share
+#### 1.2.1.10. VS Live Share
 
 This extension allows you to easily collaborate with colleagues on projects and group works. After installing the extension, two or more users can simultaneously develop on the same codebase, while not leaving their own workspace. This can especially be useful for helping each other out!
 
