@@ -115,15 +115,19 @@ In most cases you can automatically fix issues and read learn more about the gui
 
 ### 1.2.4. PHP
 
-#### 1.2.4.1. PHP Debug
+#### 1.2.4.1. Composer
+
+Composer makes it possible to run PHP Composer commands through the Command Pallet from Visual Studio Code.
+
+#### 1.2.4.2. PHP Debug
 
 After installing and configuring XDebug on your device it will be possible to debug PHP in Visual Studio Code. To configure XDebug on your development machines the official XDebug wizard can offer some great help!
 
-#### 1.2.4.2. PHP Getters & Setters
+#### 1.2.4.3. PHP Getters & Setters
 
 Kickstart your OOP programming in PHP by instantly generating your getters and setters for your classes. Be advised to use this extension after learning the basics from OOP and Getters & Setters so you can write and understand the code yourself.
 
-#### 1.2.4.3. PHP Intelephense
+#### 1.2.4.4. PHP Intelephense
 
 While searching for PHP extensions, the first plugin you'll likely stumble upon will most likely be PHP Intellisense. In my experience, however, PHP Intellisense seems to be working slower, and less effectively in larger PHP projects - like a Laravel workspace for example.
 
@@ -131,7 +135,7 @@ Intelephense will reliably offer camelCase proof code suggestions across codebas
 
 It is recommended to disable basic suggestions to prevent duplicate suggestions after installing this plugin.
 
-#### 1.2.4.4. PHP IntelliSense for CodeIgniter
+#### 1.2.4.5. PHP IntelliSense for CodeIgniter
 
 This extension dynamically adds IntelliSense for CodeIgniter by detecting the `system` folder in your project. After installation Visual Studio Code returns code completion for all the models and classes present in your code.
 
