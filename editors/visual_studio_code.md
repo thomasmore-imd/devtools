@@ -147,9 +147,9 @@ When writing code for views in the Blade template language for Laravel, this ext
 
 This extension updates the view() function in Laravel with a link to the view file to code faster.
 
-#### 1.2.5.6. laravel-goto-controller
+#### 1.2.5.6. Laravel-goto-controller
 
-When using a controller in Laravel, this extension allows you to click on the controller and open the controller file.
+When using a controller in Laravel, this extension allows you to click on the controller to directly navigate to it's file.
 
 ### 1.2.6. NodeJS
 
