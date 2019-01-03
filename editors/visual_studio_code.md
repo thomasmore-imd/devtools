@@ -113,13 +113,13 @@ After installing and configuring XDebug on your device it will be possible to de
 
 Kickstart your OOP programming in PHP by instantly generating your getters and setters for your classes. Be advised to use this extension after learning the basics from OOP and Getters & Setters so you can write and understand the code yourself.
 
-#### 1.2.4.3. PHP IntelliSense
+#### 1.2.4.3. PHP Intelephense
 
-PHP IntelliSense adds advanced autocompletion and refactoring to Visual Studio Code. This brings the suggestions of the editor closer to PhpStorm.
+While searching for PHP extensions, the first plugin you'll likely stumble upon will most likely be PHP Intellisense. In my experience, however, PHP Intellisense seems to be working slower, and less effectively in larger PHP projects - like a Laravel workspace for example.
+
+Intelephense will reliably offer camelCase proof code suggestions across codebases, auto add PHP imports, fast symbol finding, advanced code formatting and more.
 
 It is recommended to disable basic suggestions to prevent duplicate suggestions after installing this plugin.
-
-To make use of the more advanced IntelliSense you need to link your php.exe to Visual Studio Code. You can do this by linking to the php.exe file included in your LAMP stack.
 
 #### 1.2.4.4. PHP IntelliSense for CodeIgniter
 
