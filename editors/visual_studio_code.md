@@ -145,7 +145,7 @@ When writing code for views in the Blade template language for Laravel, this ext
 
 #### 1.2.5.5. Laravel goto view
 
-This extension updates the view() function in Laravel with a link to the view file to code faster.
+This extension updates the view() function in Laravel workspaces with a link to get to the related view file faster.
 
 #### 1.2.5.6. Laravel-goto-controller
 
