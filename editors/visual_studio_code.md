@@ -85,6 +85,10 @@ This extension allows you to directly pull premade .gitignore templates from a p
 
 This extension provides integration and support for gitflow in visual studio code. No need to work in your terminal to setup your features and releases.
 
+#### 1.2.2.3. GitLens
+
+GitLens literally super charges the Git capabilities of Visual Studio Code. You'll get inline commit messages, quickly gain insights to code changes inside your repositories and more. It even comes with integrations for other extensions, like Live Share!
+
 ### 1.2.3. Markdown
 
 #### 1.2.3.1. Auto-Open Markdown
