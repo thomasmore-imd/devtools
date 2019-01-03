@@ -197,6 +197,6 @@ HTMLHint is an interesting extension to help as well with the quality of your co
 
 This extension uses the NPM package with the same name. This can be either a locally installed package for the project or a global installation. If neither are found, an embedded version to the extension will be used.
 
-#### 1.2.8.3. stylelint
+#### 1.2.8.3. Stylelint
 
-Validate your CSS markup on the go while coding. Automatically output problems and hints to improve quality to the panel of Visual Studio Code.
+Stylelint automatically validates your CSS markup on the go while coding. It automatically outputs problems and hints to improve quality to the panel of Visual Studio Code.
