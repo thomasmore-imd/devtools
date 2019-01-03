@@ -107,11 +107,15 @@ GitLens literally super charges the Git capabilities of Visual Studio Code. You'
 
 In our programming classes our teachers always emphasize that "a good developer is a lazy one". With this extension, you can save one additional click while working on Markdown files by auto opening the preview on the side in Visual Studio Code.
 
-#### 1.2.3.2. Markdown TOC
+#### 1.2.3.2. Markdown PDF
+
+This handy extension lets you quickly convert markdown files to PDF files within Visual Studio Code.
+
+#### 1.2.3.3. Markdown TOC
 
 To add more structure to .md files you can use this table of contents extension. Quickly add and update sections in templates and automatically add an interactive table of contents.
 
-#### 1.2.3.3. Markdownlint
+#### 1.2.3.4. Markdownlint
 
 Another linter to assist you with writing stronger quality of code. This linter will output problems with the markdown to the problems tab view in the Terminal of Visual Studio Code.
 
