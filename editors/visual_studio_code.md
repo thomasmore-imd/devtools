@@ -109,7 +109,7 @@ In most cases you can automatically fix issues and read learn more about the gui
 
 #### 1.2.4.1. PHP Debug
 
-After installing and configuring XDebug on your device it will be possible to debug PHP in Visual Studio Code.
+After installing and configuring XDebug on your device it will be possible to debug PHP in Visual Studio Code. To configure XDebug on your development machines the official XDebug wizard can offer some great help!
 
 #### 1.2.4.2. PHP Getters & Setters
 
