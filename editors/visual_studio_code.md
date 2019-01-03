@@ -65,21 +65,25 @@ The Code Spell Checker can add spelling and grammar control to the editor. This 
 
 By standard, this extension supports English for proofreading your code, to build upon this, the developer has also released child extensions extending the module with other languages.
 
-#### 1.2.1.8. Live Server
+#### 1.2.1.8. Docker
+
+The Docker extension from Microsoft adds a new UI to the Activity Bar of Visual Studio Code. Through this interface you can easily manage Docker images and containers and more. Check the extension in the Visual Studio Code Marketplace!
+
+#### 1.2.1.9. Live Server
 
 Live Server adds the Brackets-like live previewing to Visual Studio Code. Support for live previewing works out of the box post-installation by using the _go live_ button in the task bar inside the editor.
 
-#### 1.2.1.9. Material Icon Theme
+#### 1.2.1.10. Material Icon Theme
 
 With the Material Icon Theme, you can add stylized icons to not only improve the designs of existing icons, but also add a completely new set for folders. This improves readability and recognizability for the names we use for structuring folders.
 
 This list includes, but is not limited, to lib, images, js, ...
 
-#### 1.2.1.10. Paste and Indent
+#### 1.2.1.11. Paste and Indent
 
 Moving code blocks in Visual Studio Code doesn't always work very pretty. Especially while copy-pasting blocks of code the indenting might go completely wrong. This plugin automatically formats your code after doing a copy paste in most used development languages, so you don't need to worry yourself about keeping the indents clean.
 
-#### 1.2.1.11. VS Live Share
+#### 1.2.1.12. VS Live Share
 
 This extension allows you to easily collaborate with colleagues on projects and group works. After installing the extension, two or more users can simultaneously develop on the same codebase, while not leaving their own workspace. This can especially be useful for helping each other out!
 
