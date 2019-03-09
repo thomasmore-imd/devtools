@@ -105,6 +105,10 @@ Github Pull Requests is an official extension made by Github for managing pull r
 
 GitLens literally super charges the Git capabilities of Visual Studio Code. You'll get inline commit messages, quickly gain insights to code changes inside your repositories and more. It even comes with integrations for other extensions, like Live Share!
 
+#### 1.2.3.2. Gitlink
+
+Supporting GitHub, GitLab and BitBucket, Gitlink quickly allows you to track files online at the prefered version control system.
+
 ### 1.2.4. Markdown
 
 #### 1.2.4.1. Auto-Open Markdown
