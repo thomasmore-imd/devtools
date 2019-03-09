@@ -211,7 +211,7 @@ This extension adds IntelliSense to your ASP.NET projects.
 
 Allows you to write C# code faster by adding Syntax Highlighting, IntelliSense and more to your project.
 
-### 1.2.9. HTML / CSS
+### 1.2.9. HTML / CSS / SCSS
 
 #### 1.2.9.1. Autoprefixer
 
@@ -224,6 +224,10 @@ By opening the Code's built in command prompt you'll be able to use a flexible u
 HTMLHint is an interesting extension to help as well with the quality of your code. This time your HTML markup shall be validated for various quality checks.
 
 This extension uses the NPM package with the same name. This can be either a locally installed package for the project or a global installation. If neither are found, an embedded version to the extension will be used.
+
+#### SCSS Formatter
+
+Allows to quickly re-format SCSS syntax through the command pallette.
 
 #### 1.2.9.3. Stylelint
 
