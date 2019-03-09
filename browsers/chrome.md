@@ -32,13 +32,7 @@ While testing the load performance of your app, this tool can be extra useful as
 
 ## 1.2. Extensions
 
-### 1.2.1. JSON Viewer
-
-A lot of times while working with JSON you might notice that output of scripts and APIs is being minified. This can make it harder to visually read and understand the output of these tools.
-
-[JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=nl) automatically highlights these pages and adds formatting for human reading. The extension also works for formatting php debugging.
-
-### 1.2.2. CSS Peeper
+### 1.2.1. CSS Peeper
 
 [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk) assists you in getting useful information about the design of webpages. After installation the extension can be accessed from the top right in Google Chrome, after which it opens a new pane. This pane has three tabs at the bottom for navigation.
 
@@ -48,14 +42,20 @@ The second tab is all about colors. In a clean list, you can quickly checkout an
 
 Last but not least the assets tab can reveal all images, used on the webpage.
 
-### 1.2.3. Fireshot
+### 1.2.2. Fireshot
 
 [Fireshot](https://chrome.google.com/webstore/detail/take-webpage-screenshots/mcbpblocgmgfnpjjppndjkmgjaogfceg) can automatically create screenshots of an entire webpage. This behavior can be customised to only screenshot the current content within the canvas or even a custom selection!
 
-### 1.2.4. Wappalyzer
+### 1.2.3. JSON Viewer
 
-[Wappalyzer](https://www.wappalyzer.com/) is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
+A lot of times while working with JSON you might notice that output of scripts and APIs is being minified. This can make it harder to visually read and understand the output of these tools.
 
-### 1.2.5. Postman
+[JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=nl) automatically highlights these pages and adds formatting for human reading. The extension also works for formatting php debugging.
+
+### 1.2.4. Postman
 
 [Postman](https://www.getpostman.com) makes API development faster, easier, and better. The app is available as Chrome app and native app. Postman provides an slick GUI and a large number of tools that support the entire API workflow. API monitoring, debugging with tests/scripts/variables/..., automated testing integrated into your CI/CD pipeline, create and publish web-viewable documentation on the fly,...
+
+### 1.2.5. Wappalyzer
+
+[Wappalyzer](https://www.wappalyzer.com/) is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
