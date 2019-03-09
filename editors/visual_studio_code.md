@@ -97,45 +97,49 @@ This extension allows you to directly pull premade .gitignore templates from a p
 
 This extension provides integration and support for gitflow in visual studio code. No need to work in your terminal to setup your features and releases.
 
-#### 1.2.2.3. GitLens
+### 1.2.3. GitHub Pull Requests
+
+Github Pull Requests is an official extension made by Github for managing pull requests within Visual Studio Code.
+
+#### 1.2.3.1. GitLens
 
 GitLens literally super charges the Git capabilities of Visual Studio Code. You'll get inline commit messages, quickly gain insights to code changes inside your repositories and more. It even comes with integrations for other extensions, like Live Share!
 
-### 1.2.3. Markdown
+### 1.2.4. Markdown
 
-#### 1.2.3.1. Auto-Open Markdown
+#### 1.2.4.1. Auto-Open Markdown
 
 In our programming classes our teachers always emphasize that "a good developer is a lazy one". With this extension, you can save one additional click while working on Markdown files by auto opening the preview on the side in Visual Studio Code.
 
-#### 1.2.3.2. Markdown PDF
+#### 1.2.4.2. Markdown PDF
 
 This handy extension lets you quickly convert markdown files to PDF files within Visual Studio Code.
 
-#### 1.2.3.3. Markdown TOC
+#### 1.2.4.3. Markdown TOC
 
 To add more structure to .md files you can use this table of contents extension. Quickly add and update sections in templates and automatically add an interactive table of contents.
 
-#### 1.2.3.4. Markdownlint
+#### 1.2.4.4. Markdownlint
 
 Another linter to assist you with writing stronger quality of code. This linter will output problems with the markdown to the problems tab view in the Terminal of Visual Studio Code.
 
 In most cases you can automatically fix issues and read learn more about the guidelines through included links.
 
-### 1.2.4. PHP
+### 1.2.5. PHP
 
-#### 1.2.4.1. Composer
+#### 1.2.5.1. Composer
 
 Composer makes it possible to run PHP Composer commands through the Command Pallet from Visual Studio Code.
 
-#### 1.2.4.2. PHP Debug
+#### 1.2.5.2. PHP Debug
 
 After installing and configuring XDebug on your device it will be possible to debug PHP in Visual Studio Code. To configure XDebug on your development machines the official XDebug wizard can offer some great help!
 
-#### 1.2.4.3. PHP Getters & Setters
+#### 1.2.5.3. PHP Getters & Setters
 
 Kickstart your OOP programming in PHP by instantly generating your getters and setters for your classes. Be advised to use this extension after learning the basics from OOP and Getters & Setters so you can write and understand the code yourself.
 
-#### 1.2.4.4. PHP Intelephense
+#### 1.2.5.4. PHP Intelephense
 
 While searching for PHP extensions, the first plugin you'll likely stumble upon will most likely be PHP Intellisense. In my experience, however, PHP Intellisense seems to be working slower, and less effectively in larger PHP projects - like a Laravel workspace for example.
 
@@ -143,86 +147,86 @@ Intelephense will reliably offer camelCase proof code suggestions across codebas
 
 It is recommended to disable basic suggestions to prevent duplicate suggestions after installing this plugin.
 
-#### 1.2.4.5. PHP IntelliSense for CodeIgniter
+#### 1.2.5.5. PHP IntelliSense for CodeIgniter
 
 This extension dynamically adds IntelliSense for CodeIgniter by detecting the `system` folder in your project. After installation Visual Studio Code returns code completion for all the models and classes present in your code.
 
-### 1.2.5. Laravel
+### 1.2.6. Laravel
 
-#### 1.2.5.1. Laravel Artisan
+#### 1.2.6.1. Laravel Artisan
 
 With Laravel Artisan you can easily run artisan commands from the command palette in Visual Studio Code.
 
-#### 1.2.5.2. Laravel Blade Spacer
+#### 1.2.6.2. Laravel Blade Spacer
 
 While writing Laravel Blade templates this extension will automatically add spaces to your markers.
 
-#### 1.2.5.3. Laravel 5 Snippets
+#### 1.2.6.3. Laravel 5 Snippets
 
 This extension helps you to write Laravel code faster. It automatically completes syntax to write routes, views and more.
 
-#### 1.2.5.4. Laravel Blade Snippets
+#### 1.2.6.4. Laravel Blade Snippets
 
 When writing code for views in the Blade template language for Laravel, this extension allows you to work faster because its autocompletion.
 
-#### 1.2.5.5. Laravel goto view
+#### 1.2.6.5. Laravel goto view
 
 This extension updates the view() function in Laravel workspaces with a link to get to the related view file faster.
 
-#### 1.2.5.6. Laravel-goto-controller
+#### 1.2.6.6. Laravel-goto-controller
 
 When using a controller in Laravel, this extension allows you to click on the controller to directly navigate to it's file.
 
-### 1.2.6. NodeJS
+### 1.2.7. NodeJS
 
 Pug is the HTML render standard for ExpressJS. With the following extensions you can increase your workflow with writing your template files.
 
-#### 1.2.6.1. Heroku-cli
+#### 1.2.7.1. Heroku-cli
 
 Quickly get your logs and check the status of online Heroku apps without leaving the editor. After installing the Heroku CLI to the OS of your choice, it will be possible to run heroku commands from the included terminal in Visual Studio Code.
 
-#### 1.2.6.2. html2jade
+#### 1.2.7.2. html2jade
 
 You might be aware of the online html2jade tool to instantly convert your HTML markup into Pug. However, you can take it to the next step by installing this plugin, allowing you to directly convert Html to Pug from within the editor.
 
-#### 1.2.6.3. Pug beautify
+#### 1.2.7.3. Pug beautify
 
 Pug beautify allows you to clean up your Pug and automatically format resulting in cleaner codes.
 
-#### 1.2.6.4. Puglint
+#### 1.2.7.4. Puglint
 
 To help understanding pug and producing better coding standards, puglint will help you with writing qualitative Pug templates.
 
-### 1.2.7. ASP.NET
+### 1.2.8. ASP.NET
 
-#### 1.2.7.1. ASP.NET Helper
+#### 1.2.8.1. ASP.NET Helper
 
 This extension adds IntelliSense to your ASP.NET projects.
 
-#### 1.2.7.2. C#
+#### 1.2.8.2. C#
 
 Allows you to write C# code faster by adding Syntax Highlighting, IntelliSense and more to your project.
 
-### 1.2.8. HTML / CSS
+### 1.2.9. HTML / CSS
 
-#### 1.2.8.1. Autoprefixer
+#### 1.2.9.1. Autoprefixer
 
 Tired of manually checking for browser backwards compatibility? Or do you want to ensure you're not forgetting any special prefixes in your CSS markup? Go and give the autoprefixer module a try!
 
 By opening the Code's built in command prompt you'll be able to use a flexible ui to automatically insert your prefixes. This extensions also works well in combination with Mixins.
 
-#### 1.2.8.2. HTMLHint
+#### 1.2.9.2. HTMLHint
 
 HTMLHint is an interesting extension to help as well with the quality of your code. This time your HTML markup shall be validated for various quality checks.
 
 This extension uses the NPM package with the same name. This can be either a locally installed package for the project or a global installation. If neither are found, an embedded version to the extension will be used.
 
-#### 1.2.8.3. Stylelint
+#### 1.2.9.3. Stylelint
 
 Stylelint automatically validates your CSS markup on the go while coding. It automatically outputs problems and hints to improve quality to the panel of Visual Studio Code.
 
-### 1.2.9. VueJS
+### 1.2.10. VueJS
 
-#### 1.2.9.1. Vetur
+#### 1.2.10.1. Vetur
 
 Vetur is a must-have for anyone working with VueJS inside Visual Studio Code. The Extension adds auto-completion, syntax highlighting, linting and more. The developer behind Vetur even made a great documentation for working with the extension. Check it out!
