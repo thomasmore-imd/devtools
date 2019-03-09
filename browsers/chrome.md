@@ -60,6 +60,10 @@ A lot of times while working with JSON you might notice that output of scripts a
 
 Directly made and offered by Facebook themselves, [React Developer](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en) Tools enhances Chrome with useful developer tools. With the new tab added after installation, inspect all rendered (sub)components and check their variables.Taking things further, it's even possible to edit the current props and state, for faster testing and debugging while developing ReactJS.
 
+### 1.2.6. Vue.js devtools
+
+Similiarly to the React Developer tools, installing [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en) will add great developer utilities to Google Chrome.
+
 ### 1.2.6. Wappalyzer
 
 [Wappalyzer](https://www.wappalyzer.com/) is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
