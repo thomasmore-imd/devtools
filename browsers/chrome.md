@@ -71,3 +71,8 @@ Similiarly to the React Developer tools, installing [Vue.js devtools](https://ch
 ### 1.2.8. Wappalyzer
 
 [Wappalyzer](https://www.wappalyzer.com/) is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
+
+### 2.1.0 WhatFont
+
+[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) is an extension to inspect web fonts by just hovering on them. It also detects the services used for serving the web fonts. Supports Typekit and Google Font API. 
+Recommended by Wired WebMonkey, Lifehacker, and SwissMiss.
